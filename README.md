@@ -3,6 +3,4 @@ Dinosaurs' Island (L'isola dei dinosauri) is an adaptation of the Facebook engin
 
 This is the final project for the Computer Software Engineering Bachelor's Degree of the Polytechnic University of Milan for the academic year 2010/2011.
 
-Authors:
-Sergio Andaloro
-Gioele Antoci
+Authors: Sergio Andaloro and Gioele Antoci
